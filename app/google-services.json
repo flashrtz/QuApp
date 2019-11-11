@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "955991789815",
+    "firebase_url": "https://quoteapp-968a9.firebaseio.com",
+    "project_id": "quoteapp-968a9",
+    "storage_bucket": "quoteapp-968a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955991789815:android:7db7c9c545bf836dd943f2",
+        "android_client_info": {
+          "package_name": "com.example.quoteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955991789815-bpqsmd8snc6uv9h04dukcp0mekl7729n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quoteapp",
+            "certificate_hash": "9cb6255a96ed09d43b465dfbacb6ad5040f43e38"
+          }
+        },
+        {
+          "client_id": "955991789815-8lsjt5lnmivt1o3m0qpgl9crqv053vk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbNka55UpgiPeH8HIrLVDc9iDx23_DA3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955991789815-8lsjt5lnmivt1o3m0qpgl9crqv053vk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

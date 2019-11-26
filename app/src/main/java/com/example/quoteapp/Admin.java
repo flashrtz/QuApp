@@ -126,11 +126,11 @@ public class Admin extends AppCompatActivity {
     protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
 
-            if(requestCode == PICK_IMAGE_REQUEST && resultCode == RESULT_OK
+        if(requestCode == PICK_IMAGE_REQUEST && resultCode == RESULT_OK
             && data !=null && data.getData() != null){
                 mImageUri = data.getData();
 
-                Picasso.with(this).load(mImageUri).into(imageView);}
+                Picasso.get().load(mImageUri).into(imageView);}
     }
 
 
